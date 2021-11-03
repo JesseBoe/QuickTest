@@ -7,7 +7,7 @@
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Contributions](#Contributions)
-- [Tests](#Tests)
+- [Test](#Test)
 - [Questions](#Questions)
 - [License](#License)
 

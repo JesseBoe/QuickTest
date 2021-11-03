@@ -1,6 +1,6 @@
-# test
+# My title
 
-![license: GNU General Public License v3.0](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-red)
+![license: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 ## Table of Contents 
 - [Description](#Description)
@@ -10,26 +10,26 @@
 - [Tests](#Tests)
 - [Questions](#Questions)
 - [License](#License)
-    
+
 ## Description
-test
-    
+description of project
+
 ## Installation
-test
-    
+npm i
+
 ## Usage 
-test
-        
+npm start
+    
 ## Contributions
-test
-    
+nope
+
 ## Test 
-test
-    
+jest
+
 ## Questions 
-If you have any questions please contact me either (https://github.com/test) or via email at test 
+If you have any questions please contact me either (https://github.com/Jesse) or via email at email@email.com 
 
 ## License 
-This application is covered under https://opensource.org/licenses/GPL-2.0 
-    
+This application is covered under https://opensource.org/licenses/MIT 
+
 Have a great day!
